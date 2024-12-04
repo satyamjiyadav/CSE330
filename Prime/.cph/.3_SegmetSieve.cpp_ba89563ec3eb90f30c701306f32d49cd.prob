@@ -1,0 +1,1 @@
+{"name":"Local: 3_SegmetSieve","url":"c:\\Users\\satya\\Desktop\\Cse330\\Prime\\3_SegmetSieve.cpp","tests":[{"id":1733256092662,"input":"10","output":"2 3 5 7 "},{"id":1733257464432,"input":"15","output":"2 3 5 7 11 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\satya\\Desktop\\Cse330\\Prime\\3_SegmetSieve.cpp","group":"local","local":true}

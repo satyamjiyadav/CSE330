@@ -1,0 +1,1 @@
+{"name":"Local: 3_QuickSort","url":"c:\\Users\\satya\\Desktop\\Cse330\\Sorting\\3_QuickSort.cpp","tests":[{"id":1733260689353,"input":"5\n10 5 2 4 3","output":"2 3 4 5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\satya\\Desktop\\Cse330\\Sorting\\3_QuickSort.cpp","group":"local","local":true}

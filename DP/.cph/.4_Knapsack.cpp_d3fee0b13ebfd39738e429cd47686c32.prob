@@ -1,0 +1,1 @@
+{"name":"Local: 4_Knapsack","url":"c:\\Users\\satya\\Desktop\\Cse330\\DP\\4_Knapsack.cpp","tests":[{"id":1733223797394,"input":"4\n10 20 30 40\n1 2 3 5 \n5 ","output":"50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\satya\\Desktop\\Cse330\\DP\\4_Knapsack.cpp","group":"local","local":true}

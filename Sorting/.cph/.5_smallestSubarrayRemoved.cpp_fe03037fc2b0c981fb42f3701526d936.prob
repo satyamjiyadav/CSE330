@@ -1,0 +1,1 @@
+{"name":"Local: 5_smallestSubarrayRemoved","url":"c:\\Users\\satya\\Desktop\\Cse330\\Sorting\\5_smallestSubarrayRemoved.cpp","tests":[{"id":1733281616787,"input":"6\n1 3 2 4 5 6","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\satya\\Desktop\\Cse330\\Sorting\\5_smallestSubarrayRemoved.cpp","group":"local","local":true}
